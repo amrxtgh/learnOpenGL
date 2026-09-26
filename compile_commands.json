@@ -1,0 +1,34 @@
+[
+  {
+    "arguments": [
+      "g++",
+      "-g",
+      "-O0",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "build/main.o"
+    ],
+    "directory": "/home/amrxtgh/learnOpenGL",
+    "file": "/home/amrxtgh/learnOpenGL/src/main.cpp"
+  },
+  {
+    "arguments": [
+      "g++",
+      "-g",
+      "-O0",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-c",
+      "src/gl.c",
+      "-o",
+      "build/gl.o"
+    ],
+    "directory": "/home/amrxtgh/learnOpenGL",
+    "file": "/home/amrxtgh/learnOpenGL/src/gl.c"
+  }
+]
